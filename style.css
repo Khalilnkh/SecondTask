@@ -1,0 +1,18 @@
+table{
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table th{
+    border: 1px dotted yellowgreen;
+    padding: 10px;
+}
+td{
+    border: 2px dashed rgb(0, 245, 61);
+    padding: 15px 15px 15px 25px;
+    color: blue;
+}
+.bgcolor{
+    background-color: rgb(168, 177, 36);
+}
